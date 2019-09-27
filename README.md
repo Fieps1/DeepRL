@@ -1,7 +1,7 @@
 # Udacity Deep Reinforcement Learning nano degree
 
 > This repo was forked from https://github.com/ShangtongZhang/DeepRL . Big thanks to the author for providing well 
-structured implementations of popular algorithmns, as well as a nice framework for evaluation!
+structured implementations of popular algorithms, as well as a nice framework for evaluation!
 
 ## Project 2: Continuous control
 
